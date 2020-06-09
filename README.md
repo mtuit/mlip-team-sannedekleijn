@@ -1,4 +1,4 @@
-# mlip-team-sannedekleijn
+# Machine Learning in Practice - Team Sanne de Kleijn
 Source code for the MLiP course of the Data Science/AI master at Radboud University.
 
 ## Folders
